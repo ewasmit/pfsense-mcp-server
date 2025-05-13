@@ -5,3 +5,4 @@ description = "Model Context Protocol (MCP) server for pfSense firewall manageme
 requires-python = ">=3.10"
 # clarify the control flow
 # match the style used in the rest of the module
+# handle the edge case from the last release
